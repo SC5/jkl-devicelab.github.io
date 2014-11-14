@@ -1104,6 +1104,10 @@ th, td {
     border-bottom: solid 1px #e7eae8;
 }
 
+header {
+  clear: both;
+}
+
 /* Hide empty navi from mobile clients */
 #titleBar {
     display: none;
@@ -1116,4 +1120,13 @@ th, td {
 
 section {
     padding-top: 1em;
+}
+
+/* Tweets */
+
+.twitter-tweet {
+  display: block;
+  width: 50%;
+  float: right;
+  margin: 0 0 1em 1em;
 }
