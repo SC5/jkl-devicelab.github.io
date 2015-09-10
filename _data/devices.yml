@@ -86,7 +86,7 @@
   device_id: ODL 012
   imei: (none)
   link: https://web.archive.org/web/20120610070346/http://www.bluebiit.mycashflow.fi/product/124/bluebiit-big-chocolate-android-40-wifi
-- model: iPad (1st gen) (available per request)
+- model: Apple iPad (1st gen) (available per request)
   os: iOS 5.1.1
   donator: Jarkko Tuomala
   donator_link: https://twitter.com/Tuosu
@@ -246,3 +246,30 @@
   imei: 352361063461578, 352361063460885
   link: http://www.gsmarena.com/nokia_x-6067.php
   donated: 2014-03-24
+- model: Aquaris E4.5 Ubuntu Edition
+  os: Ubuntu 14.10
+  donator: SC5
+  donator_link: http://sc5.io/
+  form_factor: phone
+  device_id: ODL 029
+  imei: 359011060284563, 359011060234568
+  link: http://www.bq.com/gb/aquaris-e4-5-ubuntu-edition
+  donated: 2015-04-29
+- model: Apple iPad Air (MD788KS/A)
+  os: iOS 8.4.1
+  donator: SC5
+  donator_link: http://sc5.io/
+  form_factor: tablet
+  device_id: ODL 030
+  imei: (none)
+  link: http://en.wikipedia.org/wiki/IPad
+  donated: 2014-09-15
+- model: HTC One M8 (OP6B100)
+  os: Android 5.0
+  donator: SC5
+  donator_link: http://sc5.io/
+  form_factor: phone
+  device_id: ODL 031
+  imei: (unknown)
+  link: http://www.phonearena.com/phones/HTC-One-M8_id8242
+  donated: 2015
